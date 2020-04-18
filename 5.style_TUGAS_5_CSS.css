@@ -1,0 +1,14 @@
+.div_menu {
+	background-color: black;
+	font-size: 25px;
+}
+
+.menu:visited {
+	color: white;
+}
+
+.footer-alamat, .footer {
+	background-color: black;
+	text-align: center;
+	color: white;
+}
